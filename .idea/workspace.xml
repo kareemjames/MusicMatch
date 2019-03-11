@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92332ee2-0033-479e-ba3c-20ac052f6220" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Body.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Artist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/service/MusicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/service/MusicService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -47,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/service/MusicService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="113">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,9 +59,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Music.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="60">
+              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-end-line="6" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#188#189#0" expanded="true" />
                 <element signature="e#218#219#0" expanded="true" />
                 <element signature="e#265#266#0" expanded="true" />
@@ -74,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Message.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="30">
+              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
               <folding>
                 <element signature="e#117#118#0" expanded="true" />
                 <element signature="e#144#145#0" expanded="true" />
@@ -86,17 +87,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Body.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="45">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#162#163#0" expanded="true" />
                 <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,17 +106,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/ArtistList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="105">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Artist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="105">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -151,17 +159,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/AppConfiguration.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/service/MusicService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Artist.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Music.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Message.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Body.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/ArtistList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/service/MusicService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Artist.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="840" />
+    <option name="width" value="639" />
     <option name="height" value="697" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -234,7 +243,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552329007208" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552329174714" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -289,7 +298,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2711000" />
+    <option name="totallyTimeSpent" value="2968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="697" extended-state="6" />
@@ -372,35 +381,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/service/MusicService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/ArtistList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Artist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Music.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="60">
+          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-end-line="6" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#188#189#0" expanded="true" />
             <element signature="e#218#219#0" expanded="true" />
             <element signature="e#265#266#0" expanded="true" />
@@ -411,8 +397,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Message.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="30">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
           <folding>
             <element signature="e#117#118#0" expanded="true" />
             <element signature="e#144#145#0" expanded="true" />
@@ -424,15 +410,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Body.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="45">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#162#163#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/ArtistList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/service/MusicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/detroitlabs/musicmatch/model/Artist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
     </entry>
