@@ -1,5 +1,8 @@
 package com.detroitlabs.musicmatch.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Message {
 
     private Body body;

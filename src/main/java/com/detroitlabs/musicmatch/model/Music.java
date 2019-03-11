@@ -1,8 +1,9 @@
 package com.detroitlabs.musicmatch.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import org.springframework.stereotype.Component;
 
-@Component
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Music {
 
     private Message message;
