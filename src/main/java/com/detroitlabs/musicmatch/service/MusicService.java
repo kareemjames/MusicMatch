@@ -1,5 +1,6 @@
 package com.detroitlabs.musicmatch.service;
 
+import com.detroitlabs.musicmatch.model.Music;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
